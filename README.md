@@ -1,4 +1,4 @@
-# Test task for Golang Developer position
+# Test-Task-For-Golang-Developer-Position
 
 ## Запуск приложения
 
